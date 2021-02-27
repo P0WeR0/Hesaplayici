@@ -1,7 +1,7 @@
 #Bu program Github @P0WeR0 kullanıcısı tarafından yapılmıştır.
 import time 
 
-print("Bu program Github @P0WeR0 kullanıcısı tarafından yapılmıştır.\n--------------------------------------------------------------\n                  Hesaplayıcı\n               -----------------")
+print("                  Hesaplayıcı\n               -----------------")
 
 print("             Seçebileceğiniz İşlemler:\n           ------------------------------\nbölme,çarpma,çıkarma,toplama,üs-alma,sürat-hesaplama,ivme-hesaplama\n--------------------------------------------------------------------\n     (Büyük, Küçük Harflere Duyarlıdır!)\n    -------------------------------------")
 
