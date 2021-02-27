@@ -10,4 +10,4 @@ Yazılım "olduğu gibi" dağıtılmaktadır. Herhangi bir güvence
 ima veya dile getirme yoluyla verilmemektedir. Yazılımı riski göze
 alarak kullanırsınız. Yapımcı, yazılımın kullanımından veya yanlış kullanımından
 kaynaklanacak veri kaybından, hasarlardan, kâr kaybından ve herhangi
-diğer kayıplardan sorumlu olmayacaktır.
+diğer kayıplardan sorumlu olmayacaktır. Bu programı kullanan herkes bunu kabul etmiş olacaktır.
