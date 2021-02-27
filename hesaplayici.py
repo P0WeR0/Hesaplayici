@@ -17,7 +17,7 @@ sür = "sürat-hesaplama"
 top =  "toplama"
 iv = "ivme-hesaplama"
 
-#bölme işlemi
+#hesaplamalar
 if i == böl:
     print("Bölme Aracına Hoş Geldiniz.\n---------------------------")
     a = int(input("Bölünecek Sayıyı Giriniz: "))
