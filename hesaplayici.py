@@ -1,4 +1,4 @@
-#Bu program Github @P0WeR0 kullanıcısı tarafından yapılmıştır.
+#Bu program Github P0WeR0 kullanıcısı tarafından yapılmıştır.
 import time 
 
 print("                  Hesaplayıcı\n               -----------------")
